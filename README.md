@@ -15,9 +15,9 @@ I created this to really let me know how much I use code from Stack Overflow.
 This works by logging how many times you copy on stack overflow, and compiles them into a nice little chart which you can always look at, through the chrome extension.
 Oh and it syncs across your desktop chrome browsers.
 
-<p align="center">
-  ![Screenshot](https://github.com/adamisntdead/Overflowing/raw/master/screenshot.png)
-</p>
+<div style="text-align:center">
+  <img alt="Screenshot" src ="https://github.com/adamisntdead/Overflowing/raw/master/screenshot.png" />
+</div>
 
 ## Installation
 
