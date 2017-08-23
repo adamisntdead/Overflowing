@@ -21,7 +21,8 @@ Oh and it syncs across your desktop chrome browsers.
 
 ## Installation
 
-TODO: ADD INSTALLATION
+Download the chrome extension off the [Chrome Web Store](https://chrome.google.com/webstore/detail/overflowing/jgabaenmejaenoejdajhmoahkmgcclgi?hl=en-US&gl=IE),
+or you can install it by downloading this repo and loading an unpacked extension
 
 ## Licence
 
