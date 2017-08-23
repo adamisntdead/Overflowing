@@ -2,7 +2,7 @@
   "name": "Overflowing",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Find out how much you really use Stack Overflow",
+  "description": "Find Out How Much You Really Use Stack Overflow",
   "homepage_url": "http://github.com/adamisntdead/Overflowing",
   "icons": {
     "16": "icons/icon16.png",
