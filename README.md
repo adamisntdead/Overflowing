@@ -16,7 +16,7 @@ This works by logging how many times you copy on stack overflow, and compiles th
 Oh and it syncs across your desktop chrome browsers.
 
 <p align="center">
-  ![Screenshot]()
+  ![Screenshot](https://github.com/adamisntdead/Overflowing/raw/master/screenshot.png)
 </p>
 
 ## Installation
