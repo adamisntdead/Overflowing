@@ -1,0 +1,35 @@
+{
+  "name": "Overflowing",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Find out how much you really use Stack Overflow",
+  "homepage_url": "http://github.com/adamisntdead/Overflowing",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png",
+    "158": "icons/icon158.png"
+  },
+  "default_locale": "en",
+  "browser_action": {
+    "default_icon": "icons/icon19.png",
+    "default_title": "Stack Overflow Copy Counter",
+    "default_popup": "src/browser_action/browser_action.html"
+  },
+  "permissions": [
+    "storage",
+    "https://code.highcharts.com/*",
+    "https://code.jquery.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://stackexchange.com/*",
+        "https://stackoverflow.com/*"
+      ],
+      "js": [
+        "src/inject/inject.js"
+      ]
+    }
+  ]
+}
